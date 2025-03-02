@@ -6,7 +6,7 @@
 
 {% block body %}
     <div class="entry-content">
-        <h1>{{ title }}</h1>
+        <h1>{{ title: }}</h1>
         <a href="{% url 'encyclopedia:edit' title=title %}" class="btn btn-primary">Edit</a>
         {{ content|safe }}
     </div>
