@@ -1,0 +1,1 @@
+El perro es un animal peludo de cuatro patas muy fiel y leal.

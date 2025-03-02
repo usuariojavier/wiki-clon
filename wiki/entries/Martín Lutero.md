@@ -1,0 +1,7 @@
+**Martín Lutero** (en alemán: Martin Luther; Eisleben, 10 de noviembre de 1483-Eisleben, 18 de febrero de 1546), nacido como Martin Luder,3​ fue un teólogo, filósofo y fraile católico agustino que comenzó e impulsó la Reforma protestante en Alemania y cuyas enseñanzas inspiraron la doctrina teológica y cultural denominada luteranismo.4​
+ 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Martin_Luther_by_Cranach-restoration.tif/lossy-page1-600px-Martin_Luther_by_Cranach-restoration.tif.jpg" width="15%"  alt="Lutero">
+
+
+Lutero exhortaba a la Iglesia a regresar a las enseñanzas originales de la Biblia,5​ lo que produjo una reestructuración de las iglesias cristianas católicas en Europa. La reacción de la Iglesia católica ante la Reforma protestante fue la Contrarreforma. Sus contribuciones a la civilización occidental se extienden más allá del ámbito religioso, ya que sus traducciones de la Biblia ayudaron a desarrollar una versión estándar de la lengua alemana y se convirtieron en un modelo en el arte de la traducción. Su matrimonio con Catalina de Bora, el 13 de junio de 1525, inició un movimiento de apoyo al matrimonio sacerdotal dentro de muchas corrientes cristianas.6​
