@@ -1,0 +1,1 @@
+Este es el projecto 1 de Harvard , en este caso un clon de wikipedia usando python y djando .
